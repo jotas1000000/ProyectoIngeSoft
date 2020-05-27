@@ -1,0 +1,42 @@
+Comandos desde para crear este proyecto desde cero:
+
+>> gem install bundler
+
+>> bundler --version
+
+>> mkdir PROYECTOINGESOFT
+
+>> cd PROYECTOINGESOFT
+
+>> bundle init  //Esto crea Gemfile donde se debe pegar la siguiente info:
+
+                source "https://rubygems.org"
+
+                git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+                gem 'rspec', '~> 3.5.0'
+                gem 'simplecov', require: false, group: :test
+                gem 'sinatra'
+
+luego para instalar todo en Gemfile ejecutar el comando:
+
+>> bundle install  //Es normal que tarde este comando
+
+>> rspec --init    //crea lo necesario para hacer pruebas necesarias
+
+*******************************
+
+Todo el resto de elementos se crea manualmente.
+Para ejecutar las pruebas unitarias solo basta con ejecutar el comando:
+
+>> rspec
+
+Para ejecutar la aplicacion solo es necesario ejecutar:
+
+>> ruby app.rb
+
+Sobre Sinatra
+*Es necesaria una carpeta llamada "views" para las vistas
+*Es necesaria una carpeta llamada "public" para estilos CSS y script Javascript
+
+
