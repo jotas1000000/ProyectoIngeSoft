@@ -38,5 +38,5 @@ Para ejecutar la aplicacion solo es necesario ejecutar:
 Sobre Sinatra
 *Es necesaria una carpeta llamada "views" para las vistas
 *Es necesaria una carpeta llamada "public" para estilos CSS y script Javascript
-
+*holi
 
