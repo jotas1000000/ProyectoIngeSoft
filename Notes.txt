@@ -40,3 +40,7 @@ Sobre Sinatra
 *Es necesaria una carpeta llamada "public" para estilos CSS y script Javascript
 
 
+
+:)
+
+
