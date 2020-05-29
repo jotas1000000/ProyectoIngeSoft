@@ -12,13 +12,21 @@ class VacasYToros
             end
             return "#{toros} toros y #{vacas} vacas"        
         else
-            return "Los numeros no son del mismo tamaño"
+            return "Algo va mal con los numeros"
         end
     end
 
     def validateNumbers(num, secretNum)
         if ( num.size == secretNum.size)
-            return true
+            if ( (num.to_i).to_s.size == (secretNum.to_i).to_s.size )
+                if ( ((num.to_i).to_s.size == num.size) && ((secretNum.to_i).to_s.size == secretNum.size) )
+                    return true
+                else
+                    return false
+                end
+            else
+                return false
+            end
         else
             return false
         end

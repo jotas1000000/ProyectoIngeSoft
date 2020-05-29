@@ -24,11 +24,23 @@ RSpec.describe VacasYToros do
     end
     it 'devuelve' do
         vacasYtoros = VacasYToros.new()
-        expect(vacasYtoros.play('12293','2391')).to eq 'Los numeros no son del mismo tamaño'
+        expect(vacasYtoros.play('12293','2391')).to eq 'Algo va mal con los numeros'
     end
     it 'devuelve' do
         vacasYtoros = VacasYToros.new()
-        expect(vacasYtoros.play('1','2391')).to eq 'Los numeros no son del mismo tamaño'
+        expect(vacasYtoros.play('1','2391')).to eq 'Algo va mal con los numeros'
+    end
+    it 'devuelve' do
+        vacasYtoros = VacasYToros.new()
+        expect(vacasYtoros.play('abcd','2391')).to eq 'Algo va mal con los numeros'
+    end
+    it 'devuelve' do
+        vacasYtoros = VacasYToros.new()
+        expect(vacasYtoros.play('a1cd','2391')).to eq 'Algo va mal con los numeros'
+    end
+    it 'devuelve' do
+        vacasYtoros = VacasYToros.new()
+        expect(vacasYtoros.play('a2cd391','2391')).to eq 'Algo va mal con los numeros'
     end
 end
 
