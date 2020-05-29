@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" type = "text/css" href = "/index.css"/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="cointainer">
+        <h1>Instrucciones Toros y Vacas</h1>
+        <p>En el juego se tiene dos jugadores. El primero es quien elige y escribe un código secreto (formado por cuatro 
+        dígitos). El segundo jugador tiene que intentar adivinar este código en la menor cantidad de intentos. </p>
+        <p>Después de cada intento se indicara cuántos toros y cuántas vacas obtuvo el jugador:</p>
+        <p>- Un toro indica que uno de los dígitos ingresados coincide exactamente con el valor y la posición de uno 
+        de los dígitos en el código secreto.</p>
+        <p>- Una vaca indica que uno de los dígitos ingresados coincide con el valor de uno de los dígitos en el código
+        secreto, pero que se encuentra en una posición incorrecta.</p>
+        <p>Por ejemplo:
+        Coddigo secreto: 2435
+        Intento del jugador: 1234
+        resultado: uno toro y dos vacas (el toro es el 3 y las vacas son 2 y 4)</p>
+        <p>El juego termina cuando el jugador obtenga cuatro toros, es decir,cuando haya descubierto todos los dígitos y
+posiciones correctas del código secreto. Y/o se haya
+llegado al número máximo de intentos, por defecto 10
+intentos.</p>    
+    </div>
+    <script src="/index.js"></script>
+</body>
+</html>
