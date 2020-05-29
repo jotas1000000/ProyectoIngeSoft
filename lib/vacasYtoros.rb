@@ -13,23 +13,25 @@ class VacasYToros
     end
 
     def validateNumbers(num, secretNum)
-        if ( (num.to_i).to_s.size == (secretNum.to_i).to_s.size )
-            if ( ((num.to_i).to_s.size == num.size) && ((secretNum.to_i).to_s.size == secretNum.size) )
-                return true
+        if ( ((num.to_i).to_s.size == num.size) && ((secretNum.to_i).to_s.size == secretNum.size) )
+            if ( (num.to_i).to_s.size == (secretNum.to_i).to_s.size )
+                return "Ok"
             else
-                return false
+                return "Los numeros no son del mismo tamano"
             end
         else
-            return false
+            return "El numero no puede tener letras"
         end
     
     end
 
     def run(num, secretNum)
-        if( validateNumbers(num,secretNum) )
+        message = validateNumbers(num,secretNum)
+        if( message == "Ok" )
             return play(num,secretNum)
         else
-            return "Algo va mal con los numeros"
+            return message
         end
     end
 end
+

@@ -24,28 +24,28 @@ RSpec.describe VacasYToros do
     end
     it 'devuelve' do
         vacasYtoros = VacasYToros.new()
-        expect(vacasYtoros.run('12293','2391')).to eq 'Algo va mal con los numeros'
+        expect(vacasYtoros.run('12293','2391')).to eq 'Los numeros no son del mismo tamano'
     end
     it 'devuelve' do
         vacasYtoros = VacasYToros.new()
-        expect(vacasYtoros.run('1','2391')).to eq 'Algo va mal con los numeros'
+        expect(vacasYtoros.run('1','2391')).to eq 'Los numeros no son del mismo tamano'
     end
     it 'devuelve' do
         vacasYtoros = VacasYToros.new()
-        expect(vacasYtoros.run('abcd','2391')).to eq 'Algo va mal con los numeros'
+        expect(vacasYtoros.run('abcd','2391')).to eq 'El numero no puede tener letras'
     end
     it 'devuelve' do
         vacasYtoros = VacasYToros.new()
-        expect(vacasYtoros.run('a1cd','2391')).to eq 'Algo va mal con los numeros'
+        expect(vacasYtoros.run('a1cd','2391')).to eq 'El numero no puede tener letras'
     end
     it 'devuelve' do
         vacasYtoros = VacasYToros.new()
-        expect(vacasYtoros.run('a2cd391','2391')).to eq 'Algo va mal con los numeros'
+        expect(vacasYtoros.run('a2cd391','2391')).to eq 'El numero no puede tener letras'
     end
     it 'devuelve' do
         vacasYtoros = VacasYToros.new()
         vacasYtoros.run('zzzzzz','2391');
-        expect(vacasYtoros.run('a2cd391','2391')).to eq 'Algo va mal con los numeros'
+        expect(vacasYtoros.run('a2cd391','2391')).to eq 'El numero no puede tener letras'
     end
 end
 
