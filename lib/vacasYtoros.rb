@@ -5,11 +5,10 @@ class VacasYToros
         for i in 0...secretNum.size do
             if ( num[i] == secretNum[i] )
                 toros += 1
-            elsif ( secretNum.include?(num[i].to_s))
+            elsif ( secretNum.include?(num[i].to_s) )
                 vacas += 1
             end 
         end
-        
         return "#{toros} toros y #{vacas} vacas"
     end
 end
