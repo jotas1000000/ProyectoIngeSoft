@@ -24,7 +24,11 @@ RSpec.describe VacasYToros do
     end
     it 'devuelve' do
         vacasYtoros = VacasYToros.new()
-        vacasYtoros.validateNumbers()
-        expect(vacasYtoros.play('1293','2391')).to eq '1 toros y 3 vacas'
+        expect(vacasYtoros.play('12293','2391')).to eq 'Los numeros no son del mismo tamaño'
+    end
+    it 'devuelve' do
+        vacasYtoros = VacasYToros.new()
+        expect(vacasYtoros.play('1','2391')).to eq 'Los numeros no son del mismo tamaño'
     end
 end
+
