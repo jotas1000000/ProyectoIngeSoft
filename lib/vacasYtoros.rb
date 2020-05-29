@@ -11,4 +11,8 @@ class VacasYToros
         end
         return "#{toros} toros y #{vacas} vacas"
     end
+
+    def validateNumbers()
+
+    end
 end

@@ -22,4 +22,9 @@ RSpec.describe VacasYToros do
         vacasYtoros = VacasYToros.new()
         expect(vacasYtoros.play('1293','2391')).to eq '1 toros y 3 vacas'
     end
+    it 'devuelve' do
+        vacasYtoros = VacasYToros.new()
+        vacasYtoros.validateNumbers()
+        expect(vacasYtoros.play('1293','2391')).to eq '1 toros y 3 vacas'
+    end
 end
