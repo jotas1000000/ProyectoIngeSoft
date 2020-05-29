@@ -28,4 +28,8 @@ class VacasYToros
         end
     
     end
+
+    def run(num, secretNum)
+        return ''
+    end
 end

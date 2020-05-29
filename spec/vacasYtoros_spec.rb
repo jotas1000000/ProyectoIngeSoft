@@ -42,5 +42,10 @@ RSpec.describe VacasYToros do
         vacasYtoros = VacasYToros.new()
         expect(vacasYtoros.play('a2cd391','2391')).to eq 'Algo va mal con los numeros'
     end
+    it 'devuelve' do
+        vacasYtoros = VacasYToros.new()
+        vacasYtoros.run('zzzzzz','2391');
+        expect(vacasYtoros.play('a2cd391','2391')).to eq 'Algo va mal con los numeros'
+    end
 end
 
