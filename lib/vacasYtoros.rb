@@ -1,6 +1,5 @@
 class VacasYToros 
     def play(num,secretNum) 
-        if (validateNumbers(num,secretNum))
             toros = 0
             vacas = 0
             for i in 0...secretNum.size do
@@ -11,9 +10,6 @@ class VacasYToros
                 end 
             end
             return "#{toros} toros y #{vacas} vacas"        
-        else
-            return "Algo va mal con los numeros"
-        end
     end
 
     def validateNumbers(num, secretNum)
@@ -30,6 +26,10 @@ class VacasYToros
     end
 
     def run(num, secretNum)
-        return ''
+        if( validateNumbers(num,secretNum) )
+            return play(num,secretNum)
+        else
+            return "Algo va mal con los numeros"
+        end
     end
 end
