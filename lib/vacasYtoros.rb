@@ -17,18 +17,15 @@ class VacasYToros
     end
 
     def validateNumbers(num, secretNum)
-        if ( num.size == secretNum.size)
-            if ( (num.to_i).to_s.size == (secretNum.to_i).to_s.size )
-                if ( ((num.to_i).to_s.size == num.size) && ((secretNum.to_i).to_s.size == secretNum.size) )
-                    return true
-                else
-                    return false
-                end
+        if ( (num.to_i).to_s.size == (secretNum.to_i).to_s.size )
+            if ( ((num.to_i).to_s.size == num.size) && ((secretNum.to_i).to_s.size == secretNum.size) )
+                return true
             else
                 return false
             end
         else
             return false
         end
+    
     end
 end
