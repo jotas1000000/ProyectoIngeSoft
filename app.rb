@@ -7,3 +7,7 @@ end
 get '/Homepage' do
     erb :Homepage
 end
+
+get '/Play' do
+    erb :play
+end
