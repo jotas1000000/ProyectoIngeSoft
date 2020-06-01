@@ -1,8 +1,9 @@
 class GlobalVariables
     
-    def initialize(countTries,secretNumber)
+    def initialize(countTries,secretNumber, vacasToros)
      @countTries = countTries
      @secretNumber = secretNumber
+     @vacasytoros = vacasToros
     end
 
 
@@ -23,5 +24,9 @@ class GlobalVariables
         @secretNumber = numberSecretNumber
         return @secretNumber
     end
-    
+
+    def runGame(number)
+        res = @vacasytoros.run(number,@secretNumber)
+        return res
+    end
 end
