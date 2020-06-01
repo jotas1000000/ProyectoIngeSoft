@@ -16,5 +16,8 @@ RSpec.describe GlobalVariables do
     it 'numeroSecreto' do
         expect( @globalVariables.getSecretNumber()).to eq "1234"
     end
+    it 'numeroSecreto' do
+        expect( @globalVariables.setSecretNumber("3456")).to eq "3456"
+    end
 end 
 

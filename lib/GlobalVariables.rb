@@ -1,4 +1,5 @@
 class GlobalVariables
+    
     def initialize(countTries,secretNumber)
      @countTries = countTries
      @secretNumber = secretNumber
@@ -17,4 +18,10 @@ class GlobalVariables
     def getSecretNumber() 
         return @secretNumber
     end
+
+    def setSecretNumber(numberSecretNumber)
+        @secretNumber = numberSecretNumber
+        return @secretNumber
+    end
+    
 end
