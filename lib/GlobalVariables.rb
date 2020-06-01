@@ -6,4 +6,9 @@ class GlobalVariables
     def getCounterTries()
         return @countTries
     end
+
+    def setCounterTries(numberCounterTries)
+        @countTries = numberCounterTries
+        return @countTries
+    end
 end
