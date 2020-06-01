@@ -10,4 +10,5 @@ end
 
 get '/Play' do
     erb :interfazJuego
+    erb :play
 end
