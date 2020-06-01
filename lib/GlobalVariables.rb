@@ -16,6 +16,11 @@ class GlobalVariables
         return @countTries
     end
 
+    def discountCounterTries()
+        @countTries -= 1
+        return @countTries
+    end
+
     def getSecretNumber() 
         return @secretNumber
     end

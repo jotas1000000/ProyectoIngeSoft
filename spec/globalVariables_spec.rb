@@ -17,10 +17,14 @@ RSpec.describe GlobalVariables do
         expect( @globalVariables.getSecretNumber()).to eq "1234"
     end
     it 'numeroSecreto' do
-        expect( @globalVariables.setSecretNumber("3456")).to eq "3456"
+        expect( @globalVariables.setSecretNumber("3456") ).to eq "3456"
     end
     it 'ingresar numero' do
         expect( @globalVariables.runGame("1234")).to eq "4 toros y 0 vacas"
+    end
+
+    it 'ingresar numero' do
+        expect( @globalVariables.discountCounterTries() ).to eq 9
     end
 end 
 
