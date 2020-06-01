@@ -8,11 +8,20 @@
 </head>
 <body>
     <div class="container">
-        <h1>Ingrese numeros: </h1>
+      <!--  <h1>Ingrese numeros: </h1>
         <input type='text' name='numero'>
         <button class="btn btnPlayGame">
             <a href="/PlayGame" class="linkPlayGame">Enviar</a>
-        </button>
+        </button> -->
+
+
+        <form action="/Number" target="_blank" method="post">
+            <h1>Ingrese numeros: </h1>
+            <label for="number">numero:</label><br>
+            <input type="text" id="number" name="number" value="" maxlength="<%=@maxlength%>" minlength="<%=@maxlength%>" required><br>
+            <input type="submit" value="Submit">
+        </form>
+
     </div>
 </body>
 </html>
