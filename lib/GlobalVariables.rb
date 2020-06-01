@@ -26,7 +26,6 @@ class GlobalVariables
     end
 
     def runGame(number)
-        res = @vacasytoros.run(number,@secretNumber)
-        return res
+        return @vacasytoros.run(number,@secretNumber)         
     end
 end
