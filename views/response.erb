@@ -9,9 +9,13 @@
     <div class="cointainer">
         <h1>Intento numero: <%= @numberTry %></h1>
         <p>El numero ingresado: <%= @number %></p>   
-        <p>El resultado: <%= @result %></p>    
- 
+        <p>El resultado: <%= @result %></p>  
+        <p>Te quedan: <%= @triesRemaining %> intentos</p>  
+        <button class="btn btnSalir">
+            <a href="/EnterNumber" class="">Hacer otro intento</a>
+        </button>   
     </div>
+
 
 </body>
 </html>
