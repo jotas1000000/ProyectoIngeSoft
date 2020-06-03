@@ -18,9 +18,17 @@ get '/Play' do
     erb :play
 end
 
+post '/secretNumberRegister' do
+    @secretnumber = params['secretNumber']
+    @@globalVariables.setSecretNumber(@secretnumber)
+    @maxlength = @@globalVariables.getSecretNumber().size.to_s
+    erb :interfazJuego
+end
+
 get '/EnterNumber' do
     @maxlength = @@globalVariables.getSecretNumber().size.to_s
     @numberTry = @@globalVariables.getCounterTries()
+    @secretNumber = @@globalVariables.getSecretNumber()
     if (@numberTry == 0)
         @messageResult = "Perdiste ! :("
         erb :endGame
@@ -35,6 +43,7 @@ post '/Number' do
     @numberTry = @@globalVariables.getCounterTries()
     @triesRemaining = @@globalVariables.discountCounterTries()
     @result = @@globalVariables.runGame(@number)
+    @secretNumber = @@globalVariables.getSecretNumber()
     if (@result == '4 toros y 0 vacas')
         @messageResult = "Ganaste ! :)"
         erb :endGame
