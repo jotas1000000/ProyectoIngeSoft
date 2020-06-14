@@ -1,0 +1,210 @@
+# Logfile created on 2019-11-29 00:58:48 -0400 by logger.rb/31641
+D, [2019-11-29T00:58:48.969443 #52547] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T00:58:49.184213 #52547] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T00:58:49.187802 #52547] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T00:58:49.195347 #52547] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T00:58:49.198665 #52547] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T00:58:49.203408 #52547] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T10:04:55.956936 #53863] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:04:56.035463 #53863] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:04:56.039629 #53863] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:04:56.046260 #53863] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:04:56.049469 #53863] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:04:56.053508 #53863] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T10:29:07.639439 #54748] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:29:07.719423 #54748] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:29:07.725033 #54748] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:29:07.733362 #54748] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:29:07.737356 #54748] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:29:07.748125 #54748] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T11:05:56.230394 #55254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:05:56.298677 #55254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:05:56.304246 #55254] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:05:56.312474 #55254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:05:56.315574 #55254] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:05:56.335784 #55254] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T11:06:29.446768 #55485] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:29.525084 #55485] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:29.528366 #55485] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:29.537031 #55485] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:29.540493 #55485] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:29.544292 #55485] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T11:06:44.281223 #55621] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:44.336833 #55621] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:44.340570 #55621] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:44.348913 #55621] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:44.351681 #55621] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:44.354087 #55621] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2020-06-08T20:13:26.037328 #43848] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:15:27.328072 #29612] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:15:49.126871 #21812] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:17:22.947131 #44872] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:37:14.421062 #43340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:37:14.503113 #43340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:37:33.882506 #41460] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:37:33.964564 #41460] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:42:42.146848 #35468] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:45:16.223134 #15332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T20:56:05.522833 #34056] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:28:47.770974 #9352] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:28:47.826378 #9352] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:31:32.889483 #31816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:37:45.117878 #13548] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:38:32.434011 #27612] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:38:32.496280 #27612] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:43:04.781371 #42756] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:43:04.846259 #42756] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:50:11.897833 #40216] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:50:11.954030 #40216] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:51:01.497733 #14056] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:51:01.545941 #14056] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:51:45.363965 #1208] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:51:45.422548 #1208] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:52:18.659054 #45728] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:52:18.710136 #45728] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:53:03.154707 #35160] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:53:03.214268 #35160] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:53:44.800230 #21472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:53:44.861405 #21472] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:54:26.626263 #35164] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:54:26.677644 #35164] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:55:15.884055 #20092] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:55:15.947716 #20092] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:55:39.930582 #40580] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:55:39.985646 #40580] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:59:53.738348 #28212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T21:59:53.793856 #28212] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T21:59:53.825831 #28212] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"test@example.com", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:00:40.891103 #46240] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:00:40.950988 #46240] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:00:40.984045 #46240] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"Juan", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:02:33.479502 #19628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:02:33.538256 #19628] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:03:45.170524 #35016] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:03:45.228463 #35016] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:04:23.566354 #31660] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:04:23.626183 #31660] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:05:13.162279 #40928] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:05:13.215698 #40928] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:05:13.249831 #40928] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:07:11.049127 #39588] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:07:11.107592 #39588] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:07:11.140445 #39588] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:09:38.166010 #38736] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:09:38.219636 #38736] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:09:57.060893 #2408] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:09:57.119462 #2408] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:09:57.152990 #2408] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:12:05.708341 #28744] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:12:05.764019 #28744] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:12:05.798309 #28744] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:14:29.648592 #3540] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:14:29.707101 #3540] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:14:29.740542 #3540] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:20:31.214557 #47712] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:20:31.267051 #47712] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:20:31.301947 #47712] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:21:37.658789 #25292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:21:37.713319 #25292] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:21:37.747114 #25292] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:21:48.623596 #9684] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:21:48.682672 #9684] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:21:48.717157 #9684] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:23:58.516405 #36628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:23:58.567931 #36628] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:23:58.604696 #36628] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:24:14.729689 #41240] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:24:14.785107 #41240] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:24:14.819199 #41240] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:24:14.821463 #41240] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-08T22:25:00.581266 #36084] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:25:00.640188 #36084] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:25:00.677595 #36084] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:25:00.679700 #36084] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-08T22:27:21.876747 #19916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:27:21.930932 #19916] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:27:21.964336 #19916] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:27:21.970043 #19916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-08T22:28:00.115755 #45312] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:28:00.176084 #45312] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:28:17.537196 #25976] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:28:17.590496 #25976] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:28:17.624903 #25976] DEBUG -- : REQUESTING PAGE: GET / with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:28:17.627111 #25976] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-08T22:36:31.395868 #41148] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:36:31.451924 #41148] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:36:31.491353 #41148] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:36:31.501147 #41148] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T22:37:00.606962 #31688] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:37:00.665103 #31688] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:37:00.700033 #31688] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:37:00.710692 #31688] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T22:37:51.939608 #32808] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:37:51.996783 #32808] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:37:52.034019 #32808] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:37:52.043941 #32808] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T22:38:24.185175 #31608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:38:24.239718 #31608] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:38:24.272999 #31608] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:38:24.285387 #31608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T22:39:48.517004 #33396] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:39:48.572853 #33396] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:39:48.606815 #33396] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:39:48.616538 #33396] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T22:40:28.761776 #37224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:40:28.820103 #37224] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:40:28.858246 #37224] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:40:28.871288 #37224] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T22:47:35.300118 #35700] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:47:35.360269 #35700] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:47:35.394468 #35700] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:47:35.405365 #35700] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T22:55:02.506819 #30396] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:55:02.561245 #30396] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:55:02.595549 #30396] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:55:02.605277 #30396] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T22:58:50.754969 #28180] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T22:58:50.806854 #28180] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T22:58:50.844082 #28180] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T22:58:50.853354 #28180] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T23:01:41.036115 #10340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:01:41.089234 #10340] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:01:41.126392 #10340] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:01:41.135920 #10340] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T23:09:32.569971 #37900] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:09:32.621526 #37900] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:09:32.656342 #37900] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:09:32.667511 #37900] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T23:11:08.821399 #23772] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:11:08.876996 #23772] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:11:08.911784 #23772] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:11:08.922265 #23772] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T23:11:48.497500 #20840] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:11:48.551273 #20840] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:11:48.586301 #20840] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:11:48.597602 #20840] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T23:12:15.000237 #30616] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:12:15.052129 #30616] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:12:15.089908 #30616] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:12:15.100929 #30616] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T23:13:58.680459 #40508] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:13:58.753177 #40508] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:13:58.789677 #40508] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:13:58.803288 #40508] DEBUG -- : REQUESTING PAGE: GET /saludoPersonal with {} and HTTP headers {"HTTP_REFERER"=>"/saludoPersonal"}
+D, [2020-06-08T23:18:57.531580 #22616] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:18:57.592546 #22616] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:18:57.630439 #22616] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:19:24.701992 #18136] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:19:24.755043 #18136] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:19:24.789978 #18136] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:20:01.480952 #2888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:20:01.534294 #2888] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:20:01.573211 #2888] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:20:28.755225 #16712] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:20:28.813250 #16712] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:20:28.852285 #16712] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-08T23:25:23.682234 #4348] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-08T23:25:23.798331 #4348] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-08T23:25:23.857589 #4348] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"Juan", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2020-06-12T01:14:40.952313 #4344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-12T01:14:41.215546 #4344] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
