@@ -18,11 +18,22 @@ get '/Play' do
     erb :play
 end
 
+get '/Config' do
+   erb :config 
+end
+
 post '/secretNumberRegister' do
     @secretnumber = params['secretNumber']
     @@globalVariables.setSecretNumber(@secretnumber)
     @maxlength = @@globalVariables.getSecretNumber().size.to_s
     erb :interfazJuego
+end
+
+post '/setCounterTries' do
+    @counterTries = params['counterTries']
+    @@globalVariables.setCounterTries(@counterTries)
+    @maxlength = @@globalVariables.getCounterTries().size.to_s
+    erb :config
 end
 
 get '/EnterNumber' do
