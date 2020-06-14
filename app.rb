@@ -33,7 +33,7 @@ post '/setCounterTries' do
     @counterTries = params['counterTries']
     @@globalVariables.setCounterTries(@counterTries)
     @maxlength = @@globalVariables.getCounterTries().size.to_s
-    erb :config
+    erb :homepage
 end
 
 get '/EnterNumber' do
