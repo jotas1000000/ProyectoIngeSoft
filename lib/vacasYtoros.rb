@@ -22,10 +22,20 @@ class VacasYToros
         else
             return "El numero no puede tener letras"
         end
-    
     end
 
-    def run(num, secretNum)
+    def validateColors(colors, secretColors)
+        if ( colors.size == secretColors.size )     
+            if( colors.match?(/[1234567890]/) )
+                return "No pueden existir numeros en el valor"
+            end       
+            return "Ok"
+        else
+            return "Los colores no corresponden con el tamano del secreto"
+        end    
+    end
+
+    def run(incomingValue, secret , typeGame)
         message = validateNumbers(num,secretNum)
         if( message == "Ok" )
             return play(num,secretNum)
