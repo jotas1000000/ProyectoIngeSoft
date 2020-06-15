@@ -36,9 +36,14 @@ class VacasYToros
     end
 
     def run(incomingValue, secret , typeGame)
-        message = validateNumbers(num,secretNum)
+        message = ""
+        if( typeGame == "number")
+            message = validateNumbers(incomingValue,secret)
+        elsif ( typeGame == "colors")
+            message = validateColors(incomingValue,secret)
+        end
         if( message == "Ok" )
-            return play(num,secretNum)
+            return play(incomingValue,secret)
         else
             return message
         end
