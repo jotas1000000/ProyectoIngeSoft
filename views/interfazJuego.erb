@@ -3,22 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" type = "text/css" href = "/Homepage.css"/>
+    <link rel = "stylesheet" type = "text/css" href = ""/>
     <title>Document</title>
 </head>
 <body>
     <div class="container">
-      <!--  <h1>Ingrese numeros: </h1>
-        <input type='text' name='numero'>
-        <button class="btn btnPlayGame">
-            <a href="/PlayGame" class="linkPlayGame">Enviar</a>
-        </button> -->
-        <form action="/Number" method="post">
-            <h1>Ingrese numeros: </h1>
-            <label for="number">numero:</label><br>
-            <input type="text" id="number" name="number" value="" maxlength="<%=@maxlength%>" minlength="<%=@maxlength%>" required><br>
-            <input type="submit" value="Submit">
+        <form action="/Attempt" method="post">
+            <h1>Haz tu intento: </h1>
+            <h2>Debes introducir <%= @length%> elementos y no deben repetirse</h2>
+            <label for="attempt">Intento:</label><br>
+            <input type="text" id="attempt" name="attempt" value="" maxlength="<%=@length%>" minlength="<%=@length%>" required><br>
+            <input type="submit" value="Confirmar">
         </form>
+        <p><strong><%= @error %></strong></p>
+        <p><strong>Haga su intento:</strong> <%=@currentAttempt %> De <%=@totalAttempts %></p>
+        <p><strong>Intentos hechos:</strong> <%=@attempts %></p>
+        <p><strong>Resultados:</strong> <%=@results %></p>
 
     </div>
 </body>
