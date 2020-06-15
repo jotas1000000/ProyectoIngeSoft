@@ -10,8 +10,14 @@ get '/' do
 end
 
 get '/Homepage' do
-    @@globalVariables.setCounterTries(2);
-    erb :Homepage
+    if (@@globalVariables.getCounterTries() != 2)
+        @numberTry = @@globalVariables.getCounterTries().to_i
+        @@globalVariables.setCounterTries(@numberTry);
+        erb :Homepage
+    else
+        @@globalVariables.setCounterTries(2);
+        erb :Homepage
+    end
 end
 
 get '/Play' do
@@ -31,9 +37,8 @@ end
 
 post '/setCounterTries' do
     @counterTries = params['counterTries']
-    @@globalVariables.setCounterTries(@counterTries)
-    @maxlength = @@globalVariables.getCounterTries().size.to_s
-    erb :homepage
+    @numberTry = @@globalVariables.setCounterTries(@counterTries).to_i
+    erb :goMenu
 end
 
 get '/EnterNumber' do
