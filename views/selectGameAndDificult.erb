@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" type = "text/css" href=""/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Seleccione el Juego y la dificultad</h1>
+        <form action="/EnterSecrets" method="post">
+            <h2><strong>Selecione el tipo de juego</strong></h2>
+
+                <input type="radio" id="number" name="typeGame" value="number" required>
+                <label for="number">Numeros</label><br>
+                <input type="radio" id="colors" name="typeGame" value="colors">
+                <label for="colors">Colores</label><br>
+
+
+            <h2><strong>Selecione la dificultad</strong></h2>
+
+                <input type="radio" id="easy" name="dificult" value="easy" required>
+                <label for="easy">Facil</label><br>
+                <input type="radio" id="mid" name="dificult" value="mid">
+                <label for="mid">Medio</label><br>
+                <input type="radio" id="hard" name="dificult" value="hard">
+                <label for="hard">Difcil</label><br>
+
+            <input type="submit" value="Confirmar">
+
+        </form>
+        <button class="btnHomepage">
+            <a href="/Homepage" class="linkPlay">Ir a la pagina principal</a>
+        </button>
+    </div>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" type = "text/css" href = ""/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <form action="/Attempt" method="post">
+            <h1>Haz tu intento </h1>
+            <h2>Tienes estas opciones de colores:</h2>
+            <p>"R" : Rojo</p>
+            <p>"A" : Amarillo</p>
+            <p>"V" : Verde</p>
+            <p>"N" : Naranja</p>
+            <p>"M" : Marron</p>
+            <p>"C" : Cafe</p>
+            <p>"S" : Rosado</p>
+            <p>"L" : Lila</p>
+            <h2>Debes introducir <%= @length%> elementos y no deben repetirse.</h2>
+            <label for="attempt">Intento:</label><br>
+            <input type="text" id="attempt" name="attempt" value="" pattern="[RAVNMCRL]{<%= @length%>}" required><br>
+            <input type="submit" value="Confirmar">
+        </form>
+        <p><strong><%= @error %></strong></p>
+        <p><strong>Haga su intento:</strong> <%=@currentAttempt %> De <%=@totalAttempts %></p>
+        <p><strong>Intentos hechos:</strong> <%=@attempts %></p>
+        <p><strong>Resultados:</strong> <%=@results %></p>
+
+    </div>
+</body>
+</html>

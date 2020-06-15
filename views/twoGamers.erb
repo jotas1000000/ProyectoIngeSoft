@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" type = "text/css" href=""/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Jugadores</h1>
+        <p><%= @verifyResponse %></p>
+        <form action="/RegisterTwoGamers" method="post">
+
+                <label for="playerOne">Nombre del jugador 1</label><br>
+                <input type="text" id="playerOne" name="playerOne" value="" required><br>
+                
+                <label for="playerTwo">Nombre del jugador 2</label><br>
+                <input type="text" id="playerTwo" name="playerTwo" value="" required><br>
+
+                <input type="submit" value="Confirmar">
+        </form>
+        <button class="btnHomepage">
+            <a href="/Homepage" class="linkPlay">Ir a la pagina principal</a>
+        </button>
+    </div>
+</body>
+</html>
