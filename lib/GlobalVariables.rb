@@ -1,10 +1,23 @@
 class GlobalVariables
     
-    def initialize(countTries,secretNumber, vacasToros)
-     @countTries = countTries
-     @secretNumber = secretNumber
-     @vacasytoros = vacasToros
-    end
+    def initialize(countTries,secretNumber, vacasToros, secretColors, typeGame)
+        @countTries = countTries
+        @secretNumber = secretNumber
+        @vacasytoros = vacasToros
+   
+        @secretColors = secretColors
+        @typeGame = typeGame
+        @playerOne = "Default1"
+        @playerTwo = "Default2"
+        @dificult = "easy"
+        @secretPlayerOne = "1234"
+        @secretPlayerTwo = "1234"
+        @turnPlayer = 1
+        @countTriesOne = 1
+        @countTriesTwo = 1
+        @attempts = []
+        @results = []
+       end
 
 
     def getCounterTries()
