@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" type = "text/css" href=""/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1><%= @instructionPlayer %></h1>
+        <h2>Tienes estas opciones de colores:</h2>
+            <p>"R" : Rojo</p>
+            <p>"A" : Amarillo</p>
+            <p>"V" : Verde</p>
+            <p>"N" : Naranja</p>
+            <p>"M" : Marron</p>
+            <p>"C" : Cafe</p>
+            <p>"S" : Rosado</p>
+            <p>"L" : Lila</p>
+        <h2>Debe introducir <%= @length%> elementos y no deben repetirse</h2>
+        <form action="/secretRegister" method="post">
+                <label for="secretColors">Ingrese los colores secreto:</label><br>
+                <input type="text" id="secretColors" name="secretValue" value="" pattern="[RAVNMCRL]{<%= @length%>}" required><br>
+                <input type="submit" value="Confirmar">
+        </form>
+        <button class="btnHomepage">
+            <a href="/Homepage" class="linkPlay">Ir a la pagina principal</a>
+        </button>
+    </div>
+</body>
+</html>
