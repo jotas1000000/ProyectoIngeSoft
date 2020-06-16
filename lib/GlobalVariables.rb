@@ -189,4 +189,55 @@ class GlobalVariables
             return 8
         end
     end
+
+    def validateSecret( secret )
+        if ( getLengthDificult() == secret.length)
+            for i in 0...(secret.size-1) do
+                e = i+1
+                for o in e...(secret.size) do 
+                    if (secret[i] == secret[o])
+                        return false
+                    end
+                end
+            end
+            return true
+        else
+            return false
+        end
+    end
+
+    def getOponent( numberPlayer )
+        if (numberPlayer == 1)
+            return @playerTwo
+         elsif (numberPlayer == 2)
+            return @playerOne
+        end
+    end
+
+    def setConditionsGame()
+
+        @typeGame = "number"
+        @playerOne = "Default1"
+        @playerTwo = "Default2"
+        @dificult = "easy"
+        @secretPlayerOne = ""
+        @secretPlayerTwo = ""
+        @turnPlayer = 1
+        @countTriesOne = 1
+        @countTriesTwo = 1
+        @attempts = []
+        @results = []
+
+    end
+
+    def setConditionsPlayAgain()
+       
+        @secretPlayerOne = ""
+        @secretPlayerTwo = ""
+        @turnPlayer = 1
+        @countTriesOne = 1
+        @countTriesTwo = 1
+        @attempts = []
+        @results = []
+    end
 end
