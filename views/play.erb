@@ -8,10 +8,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>Todo listo para Toros y Vacas</h1>
-        <form action="/secretNumberRegister" method="post">
+        <h1><strong><%= @instructionPlayer%></strong></h1>
+        <h2>Debe introducir <%= @length%> elementos y no deben repetirse</h2>
+        <form action="/secretRegister" method="post">
                 <label for="secretNumber">Ingrese el numero secreto:</label><br>
-                <input type="number" id="number" name="secretNumber" value="" required><br>
+                <input type="number" id="number" name="secretValue" value="" required><br>
                 <input type="submit" value="Confirmar">
         </form>
         <button class="btnHomepage">
