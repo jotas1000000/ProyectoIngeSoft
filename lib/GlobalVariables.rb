@@ -162,4 +162,31 @@ class GlobalVariables
 
         return message
     end
+
+
+
+    def verifyNamesGamers(playerOne, playerTwo)
+        if( playerTwo[0] == " " || playerTwo[0] == " ")
+            return "Error: Los nombres de los jugadores no pueden comenzar con un espacio"
+        else
+            @playerOne = playerOne
+            @playerTwo = playerTwo
+            return "Ok"
+        end
+    end
+
+    def enterConditionsGame(typeGame,dificult)
+        @typeGame = typeGame
+        @dificult = dificult
+    end
+
+    def getLengthDificult()
+        if (@dificult == "easy")
+            return 4
+        elsif ( @dificult == "mid")
+            return 6
+        elsif ( @dificult == "hard") 
+            return 8
+        end
+    end
 end
