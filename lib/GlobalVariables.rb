@@ -104,4 +104,39 @@ class GlobalVariables
     def getTypeGame()
         return @typeGame
     end
+
+    
+    def getTurnPlayer()
+        return @turnPlayer
+    end
+
+    def setTurnPlayer(number)
+        @turnPlayer = number
+        return @turnPlayer
+    end
+
+    def getSecretPlayer(numberPlayer) 
+        if (numberPlayer == 1)
+            return @secretPlayerOne
+        elsif (numberPlayer == 2)
+            return @secretPlayerTwo
+        end
+    end
+
+    def getSecretPlayerOponent(numberPlayer)
+        if (numberPlayer == 1)
+            return @secretPlayerTwo
+        elsif (numberPlayer == 2)
+            return @secretPlayerOne
+        end
+    end
+
+    def setSecretPlayer(numberPlayer, secret)
+        if (numberPlayer == 1)
+            @secretPlayerOne = secret
+        elsif (numberPlayer == 2)
+            @secretPlayerTwo = secret
+        end
+        return getSecretPlayer(numberPlayer)
+    end
 end
