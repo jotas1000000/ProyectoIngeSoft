@@ -139,4 +139,27 @@ class GlobalVariables
         end
         return getSecretPlayer(numberPlayer)
     end
+
+    def getInstructionsPlayer(numberPlayer) 
+        message = "Jugador "
+        if (numberPlayer == 1)
+             message += @playerOne
+        elsif (numberPlayer == 2)
+            message += @playerTwo
+        end
+
+        if (@typeGame == "number" )
+            message += " escriba el numero secreto para el jugador "
+        elsif (@typeGame == "colors" )
+           message += " escriba las iniciales de los colores secretos para el jugador "
+        end
+
+        if (numberPlayer == 1)
+            message += @playerTwo
+         elsif (numberPlayer == 2)
+           message += @playerOne
+        end
+
+        return message
+    end
 end
