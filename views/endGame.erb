@@ -8,10 +8,16 @@
 </head>
 <body>
     <div class="container">
-        <p class="message-result-game"><%= @messageResult %></p>
-        <h1>Numero secreto: <%= @secretNumber %></h1>
+        <h1><%= @message %></h1>
+        <h3>Jugador: <%= @playerName%></h3>
+        <p>El valor secreto es: <%= @secret%></p>
+        <h3>Tus intentos fueron: <%= @attempts %></h3>
+        <h3>Tus resultados fueron:<%= @results %></h3>
         <button class="btn btnSalir">
-            <a href="/Homepage" class="">Volver a Jugar</a>
+            <a href="/Homepage" class="">Pagina Principal</a>
+        </button> 
+        <button class="btn btnSalir">
+            <a href="/PlayAgain" class="">Volver a Jugar</a>
         </button> 
     </div>    
 </body>

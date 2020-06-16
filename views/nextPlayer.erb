@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" type = "text/css" href=""/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h3>Jugador: <%= @player%></h3>
+        <h3><%= @message %></h3>
+        <h3>Tus intentos fueron: <%= @attempts %></h3>
+        <h3>Tus resultados fueron:<%= @results %></h3>
+
+        <h1>El jugador: <strong><%= @playerOponent %></strong> puedes iniciar.</h1>
+        <button class="btn startGame">
+            <a href="/PageTrie" class="linkPlay">Vamos</a>
+        </button>
+        <button class="btnHomepage">
+            <a href="/Homepage" class="linkHome">Ir a la pagina principal</a>
+        </button>
+    </div>
+</body>
+</html>
