@@ -21,7 +21,7 @@
         <h2>Debe introducir <%= @length%> elementos y no deben repetirse</h2>
         <form action="/secretRegister" method="post">
                 <label for="secretColors">Ingrese los colores secreto:</label><br>
-                <input type="text" id="secretColors" name="secretValue" value="" pattern="[RAVNMCRL]{<%= @length%>}" required><br>
+                <input type="text" id="secretColors" name="secretValue" value="" pattern="[RAVNMCSL]{<%= @length%>}" required><br>
                 <input type="submit" value="Confirmar">
         </form>
         <button class="btnHomepage">

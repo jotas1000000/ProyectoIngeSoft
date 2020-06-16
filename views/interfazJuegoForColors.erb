@@ -21,7 +21,7 @@
             <p>"L" : Lila</p>
             <h2>Debes introducir <%= @length%> elementos y no deben repetirse.</h2>
             <label for="attempt">Intento:</label><br>
-            <input type="text" id="attempt" name="attempt" value="" pattern="[RAVNMCRL]{<%= @length%>}" required><br>
+            <input type="text" id="attempt" name="attempt" value="" pattern="[RAVNMCSL]{<%= @length%>}" required><br>
             <input type="submit" value="Confirmar">
         </form>
         <p><strong><%= @error %></strong></p>
