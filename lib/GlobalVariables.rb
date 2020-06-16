@@ -43,7 +43,33 @@ class GlobalVariables
         return @secretNumber
     end
 
-    def runGame(number)
-        return @vacasytoros.run(number,@secretNumber)         
+    def runGame(attempt)
+        if (validateSecret(attempt))
+            if(@turnPlayer == 1)
+                return @vacasytoros.run(attempt,@secretPlayerTwo,@typeGame)         
+            elsif (@turnPlayer == 2)
+                return @vacasytoros.run(attempt,@secretPlayerOne,@typeGame)         
+            end
+        else
+            return "Los elementos no deben repetirse"
+        end
+    end
+
+
+   
+    def getAttempts()
+        return @attempts
+    end
+
+    def pushAttempt( element )
+        @attempts.push(element)
+    end
+
+    def getResults()
+        return @results
+    end
+
+    def pushResult( element )
+        @results.push(element)
     end
 end
