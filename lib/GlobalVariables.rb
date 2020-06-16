@@ -72,4 +72,36 @@ class GlobalVariables
     def pushResult( element )
         @results.push(element)
     end
+
+    def attemptDone( numberPlayer)
+        if(numberPlayer == 1)
+            @countTriesOne += 1
+        elsif (numberPlayer == 2)
+            @countTriesTwo += 1
+        end
+    end
+
+    def countTriesPlayer(numberPlayer)
+        if(numberPlayer == 1)
+            return @countTriesOne
+        elsif (numberPlayer == 2)
+            return @countTriesTwo
+        end
+    end
+
+    def getPlayer(numberPlayer)
+        if(numberPlayer == 1)
+            return @playerOne
+        elsif (numberPlayer == 2)
+            return @playerTwo
+        end
+    end
+
+    def getDificult()
+        return @dificult
+    end
+
+    def getTypeGame()
+        return @typeGame
+    end
 end
