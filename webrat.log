@@ -208,3 +208,422 @@ D, [2020-06-08T23:25:23.798331 #4348] DEBUG -- : REQUESTING PAGE: GET /saludar w
 D, [2020-06-08T23:25:23.857589 #4348] DEBUG -- : REQUESTING PAGE: POST /saludoPersonal with {"form-name"=>"Juan", "button-submit"=>"Submit"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
 D, [2020-06-12T01:14:40.952313 #4344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
 D, [2020-06-12T01:14:41.215546 #4344] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2020-06-15T23:48:41.843942 #10444] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-15T23:49:38.093456 #8176] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-15T23:52:30.253945 #29092] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-15T23:52:30.325349 #29092] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-15T23:53:38.684622 #20388] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-15T23:53:38.758850 #20388] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-15T23:55:50.446140 #27396] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-15T23:55:50.526784 #27396] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-15T23:56:02.834165 #12172] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-15T23:56:02.906916 #12172] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:04:32.649383 #22232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:04:32.723059 #22232] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:06:01.372286 #18180] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:06:01.445181 #18180] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:09:09.320534 #21388] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:09:09.397826 #21388] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:10:35.357400 #18180] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:10:35.432337 #18180] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:12:01.936065 #2644] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:12:02.007778 #2644] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:13:37.852262 #18164] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:13:37.925213 #18164] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:13:37.935103 #18164] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:13:37.938519 #18164] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:25:03.438218 #15932] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:25:03.512336 #15932] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:25:03.518445 #15932] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:25:03.521341 #15932] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:25:40.738328 #14996] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:25:40.812689 #14996] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:25:40.818851 #14996] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:25:40.821316 #14996] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:25:51.649154 #27760] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:25:51.735702 #27760] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:25:51.742394 #27760] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:25:51.751431 #27760] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:27:26.061228 #9504] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:27:26.142120 #9504] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:27:26.148119 #9504] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:27:26.157780 #9504] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:29:08.330567 #22800] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:29:08.402488 #22800] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:29:08.409206 #22800] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:29:08.411901 #22800] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:29:45.473059 #15704] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:29:45.548776 #15704] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:29:45.552286 #15704] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:29:45.565136 #15704] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:29:45.567591 #15704] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:31:47.237985 #21448] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:31:47.344454 #21448] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:31:47.350809 #21448] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:31:47.380994 #21448] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:31:47.384855 #21448] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:32:05.464611 #20108] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:32:05.573240 #20108] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:32:05.579317 #20108] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:32:05.599253 #20108] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:32:05.632358 #20108] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:32:05.646260 #20108] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:32:27.812685 #3400] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:32:27.918400 #3400] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:32:27.923337 #3400] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:32:27.950147 #3400] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:32:27.995615 #3400] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:32:28.012658 #3400] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:40:22.573592 #4024] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:40:22.676005 #4024] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:40:22.681618 #4024] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:40:22.699209 #4024] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:40:22.727784 #4024] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:40:22.741661 #4024] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:42:05.443444 #15396] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:42:05.551725 #15396] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:42:05.559010 #15396] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:42:05.583634 #15396] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:42:05.635164 #15396] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:42:05.648411 #15396] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:43:33.457096 #18916] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:43:33.560408 #18916] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:43:33.567661 #18916] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:43:33.590909 #18916] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:43:33.637562 #18916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:43:33.642325 #18916] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:44:50.346778 #28252] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:44:50.457423 #28252] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:44:50.462547 #28252] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:44:50.483496 #28252] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:44:50.609668 #28252] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:44:50.613781 #28252] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:46:47.808418 #3980] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:46:47.914996 #3980] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:46:47.918844 #3980] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:46:47.943156 #3980] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:46:48.079825 #3980] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:46:48.083842 #3980] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:47:16.898901 #2388] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:47:17.014563 #2388] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:47:17.020768 #2388] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:47:17.044942 #2388] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:47:17.077179 #2388] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:47:17.081884 #2388] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:50:49.175130 #21400] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:50:49.293054 #21400] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:50:49.300064 #21400] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:50:49.321351 #21400] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:50:49.348378 #21400] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:50:49.353462 #21400] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:52:35.421208 #16628] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:52:35.529487 #16628] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:52:35.535624 #16628] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:52:35.555442 #16628] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:52:35.564711 #16628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:52:35.575327 #16628] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:56:34.450998 #14508] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:56:34.554451 #14508] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:56:34.561357 #14508] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:56:34.583034 #14508] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:56:34.612225 #14508] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:56:34.618912 #14508] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T00:58:39.808249 #27980] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T00:58:39.924436 #27980] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T00:58:39.931125 #27980] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T00:58:39.957695 #27980] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T00:58:39.987949 #27980] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T00:58:39.992946 #27980] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:00:16.987293 #8616] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:00:17.090915 #8616] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:00:17.095087 #8616] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:00:17.114545 #8616] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:00:17.141373 #8616] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:00:17.149092 #8616] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:04:37.243954 #28744] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:04:37.346515 #28744] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:04:37.350671 #28744] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:04:37.371605 #28744] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:04:37.399392 #28744] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:04:37.409695 #28744] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:05:05.554041 #18276] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:05:05.657931 #18276] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:05:05.662907 #18276] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:05:05.695105 #18276] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:05:05.725893 #18276] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:05:05.729627 #18276] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:06:27.376857 #18636] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:06:27.494221 #18636] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:06:27.500695 #18636] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:06:27.521632 #18636] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:06:27.550691 #18636] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:06:27.555028 #18636] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:07:50.991611 #28008] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:07:51.094683 #28008] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:07:51.102607 #28008] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:07:51.127008 #28008] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:07:51.160804 #28008] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:07:51.171192 #28008] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:10:35.280770 #5712] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:10:35.407627 #5712] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:10:35.412953 #5712] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:10:35.439658 #5712] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:10:35.461385 #5712] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:10:35.470501 #5712] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:11:07.066348 #14692] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:11:07.164809 #14692] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:11:07.168999 #14692] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:11:07.191643 #14692] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:11:07.206273 #14692] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"1234"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T01:11:07.299197 #14692] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:11:07.303617 #14692] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:12:03.916695 #25188] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:12:04.022746 #25188] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:12:04.026762 #25188] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:12:04.047274 #25188] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:12:04.069477 #25188] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:12:04.081573 #25188] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:12:19.638420 #25172] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:12:19.737246 #25172] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:12:19.742433 #25172] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:12:19.762876 #25172] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:12:19.775546 #25172] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"1234"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T01:12:19.856575 #25172] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:12:19.861332 #25172] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:17:27.723393 #26032] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:17:27.867578 #26032] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:17:27.875325 #26032] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:17:27.899443 #26032] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:17:27.962989 #26032] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:17:27.974400 #26032] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:26:49.043469 #26568] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:26:49.156511 #26568] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:26:49.162362 #26568] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:26:49.181375 #26568] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:26:49.196258 #26568] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"1234"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T01:26:49.238025 #26568] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:26:49.245870 #26568] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:33:53.847030 #29200] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:33:53.949226 #29200] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:33:53.952894 #29200] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:33:53.971485 #29200] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:33:53.983667 #29200] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"1234"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T01:33:54.022746 #29200] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:33:54.032615 #29200] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T01:55:13.876777 #20932] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T01:55:13.979958 #20932] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T01:55:13.989040 #20932] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T01:55:14.011131 #20932] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T01:55:14.019033 #20932] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"1234"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T01:55:14.058341 #20932] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T01:55:14.062909 #20932] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:09:45.863551 #5432] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:09:45.967938 #5432] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:09:45.976976 #5432] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:09:46.015700 #5432] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:09:46.027977 #5432] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:09:46.037001 #5432] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:09:46.130030 #5432] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:09:46.135955 #5432] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:12:36.749615 #28608] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:12:36.865890 #28608] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:12:36.876422 #28608] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:12:36.913822 #28608] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:12:36.924860 #28608] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:12:36.930570 #28608] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:12:37.024602 #28608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:12:37.029482 #28608] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:12:50.024755 #21208] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:12:50.132345 #21208] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:12:50.140750 #21208] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:12:50.191901 #21208] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:12:50.198901 #21208] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:12:50.214387 #21208] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:12:50.239713 #21208] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:12:50.244371 #21208] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:17:55.066989 #15144] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:17:55.173273 #15144] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:17:55.177734 #15144] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:17:55.209363 #15144] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:17:55.214508 #15144] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:17:55.228113 #15144] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:17:55.249425 #15144] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:17:55.257360 #15144] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:30:33.783729 #12352] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:30:33.896759 #12352] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:30:33.905435 #12352] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:30:33.958411 #12352] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:30:33.969085 #12352] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:30:33.978121 #12352] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:30:33.997946 #12352] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:30:34.012326 #12352] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:30:34.025166 #12352] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:30:34.034832 #12352] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:30:34.062054 #12352] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:30:34.074549 #12352] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:30:53.587281 #13472] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:30:53.703828 #13472] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:30:53.709991 #13472] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:30:53.758238 #13472] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:30:53.771449 #13472] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:30:53.776864 #13472] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:30:53.795917 #13472] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:30:53.810050 #13472] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:30:53.815258 #13472] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:30:53.830733 #13472] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:30:53.857384 #13472] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:30:53.872249 #13472] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:30:53.877779 #13472] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:30:53.892224 #13472] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:30:53.985495 #13472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:30:54.002269 #13472] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:35:56.424351 #17088] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:35:56.537095 #17088] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:35:56.542475 #17088] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:35:56.577382 #17088] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:35:56.592827 #17088] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:35:56.605149 #17088] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:35:56.626298 #17088] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:35:56.638960 #17088] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:35:56.643742 #17088] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:35:56.659406 #17088] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:35:56.689235 #17088] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:35:56.696381 #17088] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:35:56.710908 #17088] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:35:56.729347 #17088] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:35:56.810711 #17088] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:35:56.819148 #17088] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:36:26.586393 #24836] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:36:26.700102 #24836] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:36:26.706546 #24836] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:36:26.753568 #24836] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:36:26.759538 #24836] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:36:26.772557 #24836] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:36:26.803490 #24836] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:36:26.809890 #24836] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:36:26.820529 #24836] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:36:26.839053 #24836] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:36:26.887600 #24836] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:36:26.896382 #24836] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:36:26.902626 #24836] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:36:26.910951 #24836] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:36:26.988226 #24836] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:36:26.996145 #24836] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:46:12.815072 #19084] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:46:12.942648 #19084] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:46:12.951197 #19084] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:46:12.988242 #19084] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:46:13.005501 #19084] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:46:13.010744 #19084] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:46:13.043411 #19084] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:46:13.058433 #19084] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:46:13.078889 #19084] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:46:13.115351 #19084] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:46:13.154713 #19084] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:46:13.172140 #19084] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:46:13.190499 #19084] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:46:13.214438 #19084] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:46:13.256240 #19084] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:46:13.268465 #19084] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T02:49:15.844886 #29140] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:49:15.965683 #29140] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:49:15.971018 #29140] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:49:16.018960 #29140] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:49:16.025141 #29140] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:49:16.035442 #29140] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:49:16.055206 #29140] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:49:16.068385 #29140] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:49:16.074063 #29140] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:49:16.107898 #29140] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:49:16.136614 #29140] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:49:16.157014 #29140] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:49:16.174011 #29140] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:49:16.192221 #29140] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:49:16.232650 #29140] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:49:16.238421 #29140] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:49:16.251149 #29140] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:49:16.271325 #29140] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:49:16.289997 #29140] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T02:49:16.305386 #29140] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T02:49:16.318755 #29140] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T02:49:16.338112 #29140] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"mid"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T02:49:16.372206 #29140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T02:49:16.383498 #29140] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T03:02:20.914515 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.039283 #18244] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:02:21.045079 #18244] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:02:21.080023 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.085123 #18244] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:02:21.097135 #18244] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:02:21.115341 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.127893 #18244] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:02:21.133611 #18244] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:02:21.145217 #18244] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:02:21.154393 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.165478 #18244] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:02:21.170625 #18244] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:02:21.184618 #18244] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:02:21.213695 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.219021 #18244] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:02:21.232939 #18244] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:02:21.245791 #18244] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:02:21.262035 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.267843 #18244] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:02:21.279523 #18244] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:02:21.291388 #18244] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"mid"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:02:21.319476 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.333144 #18244] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:02:21.345426 #18244] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:02:21.354904 #18244] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:02:21.368568 #18244] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"1234"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T03:02:21.398949 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.412344 #18244] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:02:21.417206 #18244] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:02:21.430549 #18244] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:02:21.438734 #18244] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"1111"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T03:02:21.462348 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.468083 #18244] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:02:21.480504 #18244] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:02:21.488240 #18244] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:02:21.501073 #18244] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T03:02:21.529392 #18244] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T03:02:21.534097 #18244] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2020-06-16T03:04:59.131453 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.240077 #10280] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:04:59.248591 #10280] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:04:59.283641 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.294114 #10280] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:04:59.298925 #10280] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>""} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:04:59.319029 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.332197 #10280] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:04:59.345822 #10280] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:04:59.363559 #10280] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:04:59.381004 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.397556 #10280] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:04:59.416225 #10280] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:04:59.428950 #10280] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:04:59.450329 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.463210 #10280] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:04:59.467898 #10280] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:04:59.482970 #10280] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:04:59.501451 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.515689 #10280] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:04:59.529622 #10280] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:04:59.535949 #10280] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"mid"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:04:59.565742 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.582090 #10280] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:04:59.594724 #10280] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:04:59.603534 #10280] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:04:59.618255 #10280] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"1234"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T03:04:59.633735 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.645574 #10280] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:04:59.650592 #10280] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:04:59.663677 #10280] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:04:59.678741 #10280] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"1111"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T03:04:59.696364 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.701631 #10280] DEBUG -- : REQUESTING PAGE: GET /Play with {} and HTTP headers {"HTTP_REFERER"=>"/Homepage"}
+D, [2020-06-16T03:04:59.711270 #10280] DEBUG -- : REQUESTING PAGE: POST /RegisterTwoGamers with {"playerOne"=>"Juan", "playerTwo"=>"Alvaro"} and HTTP headers {"HTTP_REFERER"=>"/Play"}
+D, [2020-06-16T03:04:59.717899 #10280] DEBUG -- : REQUESTING PAGE: POST /EnterSecrets with {"typeGame"=>"number", "dificult"=>"easy"} and HTTP headers {"HTTP_REFERER"=>"/RegisterTwoGamers"}
+D, [2020-06-16T03:04:59.732473 #10280] DEBUG -- : REQUESTING PAGE: POST /secretRegister with {"secretValue"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/EnterSecrets"}
+D, [2020-06-16T03:04:59.761523 #10280] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2020-06-16T03:04:59.765829 #10280] DEBUG -- : REQUESTING PAGE: GET /Homepage with {} and HTTP headers {"HTTP_REFERER"=>"/"}
