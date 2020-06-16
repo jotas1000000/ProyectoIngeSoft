@@ -2,7 +2,7 @@ require 'GlobalVariables.rb'
 require 'VacasYToros.rb'
 
 RSpec.describe GlobalVariables do
-    before { @globalVariables = GlobalVariables.new(10,"1234",VacasYToros.new()) }
+    before { @globalVariables = GlobalVariables.new(10,"1234",VacasYToros.new(),"RAVL", "number") }
 
    
     it 'devuelve' do
